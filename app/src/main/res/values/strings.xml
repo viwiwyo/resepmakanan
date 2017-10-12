@@ -1,0 +1,230 @@
+<resources>
+    <string name="app_name">Resep Makanan Sunda</string>
+    <string name="bahan">Bahan </string>
+    <string name="cara">Cara Membuat : </string>
+
+    <string-array name="nama_resep">
+        <item>Nasi Timbel</item>
+        <item>Nasi Liwet</item>
+        <item>Karedok</item>
+        <item>Lotek</item>
+        <item>Pepes</item>
+        <item>Bakak Hayam</item>
+        <item>Empal</item>
+        <item>Soto Bandung</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>"Berbagai lauk cocok untuk menemani nasi timbel yang pulen antara lain seperti ikan asin, pepes ikan, empal, ayam goreng, tawes, dan japuh serta lalapan yg khas"</item>
+        <item>"Nasi liwet khas Sunda mempunyai cita rasa yang gurih meskipun tidak menggunakan santan. Rasa gurih yang dimiliki oleh nasi liwet diperoleh dari hasil penggunaan bumbu-bumbu rempah khas Indonesia."</item>
+        <item>"Karedok adalah makanan khas Sunda yang mempunyai kemiripan dengan gado-gado. Karedok menyajikan berbagai sayuran dengan saus kacang tanah dengan kepedasan yang bisa menggugah selera."</item>
+        <item>"Lotek dan karedok adalah makanan khas Sunda yang juga mirip dengan gado-gado milik Jakarta"</item>
+        <item>"Pepes atau pais pada dasarnya adalah sajian yang dibungkus menggunakan daun pisang yang dikukus atau dibakar hingga matang."</item>
+        <item>"Bakakak hayam adalah menu masakan ungulan yang mudah dijumpai di tanah Sunda"</item>
+        <item>"Sesuai namanya, makanan ini dibuat dari sayatan tipis daging sapi yang dipukul-pukul alias digepuk sampai gepeng dan dimasak bersama lumuran bumbu bercita rasa manis."</item>
+        <item>"Soto bandung menggunakan bahan utama tetelan daging sapi. "</item>
+    </string-array>
+
+    <string-array name="detail_resep">
+        <item>
+        Bahan Nasi Timbel: \n
+        - Nasi dingin sebanyak 150 gram \n
+        - Daging sapi sebanyak 100 gram, direbus dan dimemarkan \n
+        - Fillet ayam sebanyak 1 potong, belah dua \n
+        - Asam jawa sebanyak 3 buah \n
+        - Daun pisang untuk membungkus \n\n
+
+        Bumbu Halus: \n
+        - Ketumbar sebanyak ½ sdt \n
+        - Jintan sebanyak ½ sdt \n
+        - Garam dan merica secukupnya \n
+        - Bawang merah sebanyak 4 butir \n\n
+
+        Cara Membuat : \n 1. Haluskan semua bumbu terlebih dahulu. Setelah itu campur bumbu yang sudah halus dengan asam jawa, daging sapi, dan fillet ayam. Kemudian biarkan semua bahan tersebut hingga 60 menit, sampai bumbunya meresap. Setelah meresap, daging sapi dan fillet ayam sampai matang. \n 2. Siapkan daun pisang, lalu mulailah membungkus nasi. Ketika membungkus, pastikan untuk menekan-nekan nasi agar padat. Setelah itu kukus hingga nasi panas. \n 3. Jika nasi sudah panas, hidangkan di atas piring. Lengkapi dengan ayam atau daging goreng. Anda bisa juga menambahkan tempe atau tahu goreng, sayur asem, lalapan, dan sambal terasi serta kerupuk. \n
+    </item>
+    <item>
+        Bahan Utama Nasi Liwet \n
+        - 500 gram beras \n
+        - 7 siung bawang merah \n
+        - 4 lembar daun salam \n
+        - 4 batang serai \n
+        - penyedap rasa secukupnya \n
+        - garam secukupnya \n
+        - 150 gram ikan asin/ikan teri \n
+        - 1200 ml air \n\n
+
+        Bahan Ayam Bakar Nasi Liwet \n
+        - 7 potong ayam \n
+        - 2 lembar daun salam \n
+        - 2 sdt garam \n
+        - 50 gram gula merah \n
+        - 3 batang serai \n
+        - 4 sdm kecap manis \n
+        - 1/4 sdt merica \n
+        - 1000 ml santan kelapa kental \n
+        - 1 sdt ketumbar \n
+        - minyak goreng secukupnya \n\n
+
+        Bahan Bumbu Ayam Bakar yang dihaluskan \n
+        - 15 siung bawang merah \n
+        - 4 siung bawang putih \n\n
+
+        Bahan Pelengkap Lainnya \n
+        - Tahu \n
+        - Tempe \n
+        - Aneka Lalapan \n\n
+
+        Cara Membuat : \n1. Langkah pertama cuci dulu beras hingga bersih, kemudian masukan ke dalam panci \n 2. Tambahkan air hingga dua ruas jari \n 3. Jangan lupa tambahkan bumbu hingga rata\n 4. Selanjutnya diamkan kurang lebih 45 menit, hingga matang \n\n
+
+        Cara Membuat Ayam Bakar \n 1. Campurkan semua bumbu haus dengan menggunakan santan, serai, daun salam, masak hingga semua harum \n 2. Selanjutnya tambahkan garam, kecap manis, gula merah, ketumbar , aduk hingga rata \n 3. Selanjutnya masukan ayam , masak hingga matang \n 4. Bakar ayam sambil diolesi dengan menggunakan minyak goreng, bakar hingga kecoklatan , angkat \n 5. Sajikan dengan nasi liwet , ayam bakar, tempe, tahu, aneka lalapan dan sambal \n    </item>
+
+    <item>
+        Bahan-bahan Karedok Sunda\n
+        - Kacang panjang, potong kecil secukupnya \n
+        - Cabe rawit secukupnya \n
+        - Gula merah secukupnya \n
+        - Terasi secukupnya \n
+- Bawang putih secukupnya \n
+- Kencur secukupnya \n
+- Garam dapur secukupnya \n\n
+
+        Bahan Saus Kacang : \n
+- Kacang tanah goreng secukupnya \n
+- Kencur secukupnya  \n
+- Gula merah secukupnya \n
+- Cabe merah secukupnya \n
+- Jeruk limau secukupnya \n
+- Terasi bakar secukupnya \n
+- Air matang secukupnya \n
+- Garam secukupnya \n
+- Air asam secukupnya \n\n
+
+        Bahan Pelengkap Karedok \n
+        - Sayuran kol, iris-iris secukupnya  \n
+- Terong bulat, iris-iris secukupnya \n
+- Tauge segar secukupnya \n
+- Wortel, iris-iris secukupnya \n
+- Daun kemangi, haluskan secukupnya \n
+- Mentimun, iris-iris secukupnya \n\n
+        Cara Membuat   \n 1. Terlebih dulu haluskan bumbu saus kacang karedok dengan cara diulek halus. Kemudian masukan sayuran segar yang sudah diiris, dipotong dan dicincang kasar ke dalam ulekan berisi bumbu halus tersebut bersama dengan bahan pelengkap lainnya, aduk merata. \n 2. Karedok siap disantap. \n
+    </item>
+
+    <item>
+        Bahan : \n
+- 1 ikat (50 gram) kangkung, disiangi, direbus \n
+- 1 buah labu siam \n
+- 50 gram taoge, diseduh \n
+- 50 gram kol, dipotong-potong, direbus \n\n
+Bahan Saus Kacang : \n
+- 25 gram kentang, direbus dan dihaluskan \n
+- 1 sendok makan gula merah \n
+- 1 endok teh garam \n
+- 75 gram kacang tanah kulit, digoreng, dihaluskan \n
+- 1 sendok makan air asam (dari 2 sendok teh asam jawa dan 2 sendok makan air) \n
+- 100 ml air panas \n\n
+
+        Bumbu Halus : \n
+- 4 buah cabai merah jika ingin lebih pedas bisa ditambah \n
+- 2 buah cabai rawit \n
+- 3 butir bawang merah \n
+- 2 siung bawang putih \n
+- 6 cm kencur \n\n
+Cara Mambuat : \n 1. Aduk bumbu halus, kentang, gula merah, dan garam. Tambahkan kacang tanah halus dan air asam. Aduk rata. Tuang air panas. Aduk rata. \n 2. Sajikan kangkung, taoge, dan kol dengan siraman saus kacang dengan alas daun pisang agar lebih wangi kemudian ditabur dengan bawang goreng renyah seperti di gambar asli di atas postingan. \n 3. Sajikan Lotek Sunda Ala Bandung untuk 2 porsi  \n
+    </item>
+        <item>
+            Bahan: \n
+- 3 sdm bumbu kuning\n
+- 1 ekor Ikan mas\n
+- 6 buah cabai rawit\n
+- 1 buah tomat merah\n
+- 1 lembar daun jeruk\n
+- 1 lembar daun salam\n
+- daun kemangi secukupnya\n
+- 1 batang sereh\n
+- daun pisang\n
+- Garam dan gula halus sebagai penyedap rasa\n\n
+Bumbu kuning:\n
+- 10 siung bawang putih\n
+- 18 siung bawang merah\n
+- 14 butir kemiri sangrai\n
+- 3 cm jahe\n
+- 3 cm lengkuas\n
+- 3 cm kunyit\n
+Cara Membuat\n 1. Panaskan minyak, lalu tumis bumbu kuning hingga aroma langu nya hilang\n 2. Tambahkan gula dan garam sesuai selera.\n 3. Siapkan wadah ukuran sedang, masukkan campurkan hasil tumisan bumbu kuning dengan ikan, lalu aduk rata.\n 4. Setelah bumbu merata pada ikan, ambil daun pisang dan letakkan ikan diatasnya.\n 5. Masukkan sebagian bahan-bahan, diantaranya: tomat merah, daun salam, daun jeruk, sereh dan cabai rawit kedalam perut ikan atau letakkan di atasnya.\n 6. Lipat daun untuk membungkus ikan, lalu gunakan tusuk gigi untuk mengunci lipatannya.\n 7. Siapkan kukusan pada kompor lalu hangatkan sampai air dalam kukusan mulai mendidih, setelah itu masukkan ikan yang sudah dibungkus dalam daun pisang kedalam kukusan.\n 8. Kukus selama kurang lebih 20 menit.\n 9. Panggang ikan selama 10-15 menit.\n         </item>
+        <item>
+            Bahan-bahan	\n
+- 4 porsi\n
+- 1 ekor ayam kampung yang masih muda, belah bagian dadanya tetapi tidak sampai putus\n
+Bumbu Rendaman (marinade):\n
+- 4 siung bawang putih , haluskan\n
+- 3 cm kunyit, haluskan\n
+- 2 sdt garam\n
+- 800 ml air\n\n
+Bumbu Yang Dihaluskan:\n
+- 6 siung bawang putih\n
+- 8 butir bawang merah\n
+- 8 buah cabai merah keriting\n
+- 4 cm jahe\n
+- 4 butir kemiri, sangrai\n
+- 1 sdt ketumbar\n
+- 1 sdm garam\n
+- 3 sdm gula merah, iris\n\n
+Cara Membuat : \n
+1. Rendam daging ayam dengan bumbu rendaman selama 30 menit\n 2. tumis bumbu yang dihaluskan hingga matang\n 3. masukan daging ayam beserta air rendamannya, aduk rata, masak hingga daging empuk dan kuah habis.\n 4. Jika dagingnya belum empuk saat kuahnya habis, tambahkan air panas secukupnya lalu angkat.\n 5. Bakar Ayam di atas bara api sambil diolesi bumbu hingga berwarna kecoklatan lalu angkat.\n 6. Sajikan Bakakak Hayam dengan sambal terasi dan lalapan\n
+
+        </item>
+        <item>
+            Bahan-bahan : \n
+- 6 porsi\n
+- 500 gram daging sapi\n
+- 2000 ml air untuk merebus daging\n
+- 2 batang daun bawang, iris halus\n
+- 2 batang seledri, iris halus\n
+- 1 batang sereh, memarkan\n
+- 2 cm jahe, kupas memarkan\n
+- 1 sdm kecap asin manis sedang\n
+- 1/2 sdt cuka\n
+- 2 buah lobak, kupas, potong-potong\n
+- 2 sdm minyak sayur, untuk menumis bumbu halus\n\n
+Bumbu haluskan:\n
+- 3 siung bawang putih\n
+- 5 siung bawang merah\n
+- 1/2 sdt merica butir\n
+- 1 sdt garam\n
+Pelengkap :\n
+- 100 gram kacang kedelai goreng\n
+- 25 gram bawang goreng\n
+- 3 buah jeruk limau\n
+- secukupnya sambal cabe\n
+- kerupuk\n
+- 6 porsi nasi putih (sesuai selera)\n\n
+Cara Membuat:\n 1. 45 menit\n 2. Didihkan air dalam panci masukkan daging, rebus hingga empuk. Angkat. Daging potong dadu. Sisihkan.\n 3. Air bekas merebus, saring. Tuang kembali ke dalam panci, jerang diatas api.\n 4. Panaskan 3 sdm minyak sayur, tumis bumbu halus sampai harum. Angkat, masukkan pada air rebusan daging.\n 5. Tambahkan daging, lobak, daun bawang, seledri, jahe, sereh, kecap, masak sampai mendidih dan bumbu meresap ke dalam daging. Tes rasa. Tambahkan cuka aduk rata Angkat.\n 6. Ambil mangkuk, tuang soto daging taburkan kacang kedelai goreng, bawang goreng.\n 7. Sajikan dengan nasi putih, sambal dan kerupuk jika suka tambahkan perasan jeruk limau.\n
+        </item>
+        <item>
+            Bahan-bahan :\n
+- 400 gram daging sapi, potong 3x3cm\n
+- 400 ml santan encer\n
+- 400 ml santan kental dari 1 /2 butir kelapa\n\n
+Bumbu halus :\n
+- 5 siung bawang merah\n
+- 3 siung bawang putih\n
+- 4 butir kemiri sangrai\n
+- 1 sdm ketumbar bubuk\n
+- 1/4 sdt jinten\n
+- 1/2 sdt merica butir\n
+- 2 cm jahe\n
+- 2 cm kunyit\n
+- 7 cm lengkuas muda\n
+- 1 batang serai\n\n
+Bumbu lain :\n
+- 3 lembar daun salam\n
+- 2 lembar daun jeruk\n
+- 50 gram gula jawa\n
+- Secukupnya garam\n
+- 2 sdt gula pasir untuk penguat rasa\n
+- 2 sdm pasta asam/air asam jawa\n
+- Taburan : bawang merah goreng\n\n
+Cara membuat:\n 1. Potong2 daging berlawanan dgn serat. Kira2 selebar 3x3cm.\n 2. Siapkan bumbu yg diulek..pake lengkuas yg muda agar gampang di ulek..sereinya jg ambil bagian yg putihnya.\n 3. Setelah halus masukkan gula jawa.\n 4. Siapkan rempah daunnya jg yg telah di remas.\n 5. Dalam wajan campur rata sambil diremas2 bumbu ulek dgn potongan daging.\n 6. Selagi menunggu dingin cmpuran daging..peras santannya. Perasaan pertama untuk santan kental sekitar 400ml.\n
+        </item>
+    </string-array>
+</resources>
